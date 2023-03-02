@@ -1,4 +1,4 @@
 repository "ZombieGame@ChaosStudios420@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"    
+     
